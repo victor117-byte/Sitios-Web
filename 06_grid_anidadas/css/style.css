@@ -1,0 +1,10 @@
+.columna {
+	border:1px solid #666;
+	background-color: #999;
+}
+
+.subcolumna {
+	border: 5px solid red; 
+	background-color: rgb(106, 106, 168)  
+
+}

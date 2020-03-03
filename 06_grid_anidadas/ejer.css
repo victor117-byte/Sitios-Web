@@ -1,0 +1,13 @@
+.columna {
+	border:1px solid red;
+	background-color: #999;
+}
+
+.subcolumna {
+	border: 1px solid blue;
+	background-color: #C0C0C0
+}
+.header {
+	background: royalblue;
+	background-color: skyblue;
+}
